@@ -20,18 +20,16 @@ main {
 .content {
 	display: flex;
 	flex-direction: column;
-
-	width: 100%;
 }
 
 .heading {
 	margin: 1rem;
-	width: 100%;
 }
 
 .cards {
 	display: flex;
 	flex-wrap: wrap;
+	/* justify-content: center; */
 }
 
 .card {
